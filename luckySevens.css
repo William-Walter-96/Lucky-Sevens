@@ -1,0 +1,17 @@
+body
+{
+    font-family:cursive;
+}
+
+h1{
+    text-align:center;
+}
+
+thead tr{
+    background-color: lightgrey;
+}
+
+table
+{
+    border:5px solid black;
+}
